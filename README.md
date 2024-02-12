@@ -26,7 +26,7 @@ Este Trabalho de Conclusão de Curso oferece um cronograma estruturado para auxi
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [React](https://reactjs.org)
+- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Prisma](https://www.prisma.io/)
