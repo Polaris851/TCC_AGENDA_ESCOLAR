@@ -17,7 +17,7 @@ Este Trabalho de Conclusão de Curso oferece um cronograma para auxiliar estudan
 ### ⏳ Demonstração:
 
 <p align="center">
-  <img 
+  <img width="20%"
        src="https://github.com/Polaris851/TCC_AGENDA_ESCOLAR/blob/main/demonstracao_agenda_escolar.gif" 
        alt="Demonstração">
 </p>
