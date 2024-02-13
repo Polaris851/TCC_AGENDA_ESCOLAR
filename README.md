@@ -12,13 +12,13 @@
 
 ## 🦥 Sobre
 
-Este Trabalho de Conclusão de Curso oferece um cronograma estruturado para auxiliar estudantes do ensino médio, especialmente aqueles em cursos técnicos integrados. Ele inclui seções mensais, semanais e diárias, destacando eventos importantes, atividades recorrentes e tarefas específicas para uma melhor organização do tempo e gestão das responsabilidades escolares e pessoais. O objetivo é promover um melhor desempenho acadêmico e equilíbrio entre os estudos e outras atividades.
+Este Trabalho de Conclusão de Curso oferece um cronograma para auxiliar estudantes do ensino médio, especialmente aqueles em cursos técnicos integrados. Ele inclui seções mensais, semanais e diárias, destacando eventos importantes, atividades recorrentes e tarefas específicas para uma melhor organização do tempo e gestão das responsabilidades escolares e pessoais. O objetivo é promover um melhor desempenho acadêmico e equilíbrio entre os estudos e outras atividades.
 
 ### ⏳ Demonstração:
 
 <p align="center">
   <img 
-       src="" 
+       src="https://github.com/Polaris851/TCC_AGENDA_ESCOLAR/blob/main/demonstracao_agenda_escolar.gif" 
        alt="Demonstração">
 </p>
 
