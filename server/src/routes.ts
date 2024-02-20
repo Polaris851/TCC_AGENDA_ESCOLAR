@@ -286,8 +286,8 @@ export async function appRoutes(app: FastifyInstance) {
         const eventsMonth = await prisma.event.findMany({
             where: {
               dueDate: {
-                gte: new Date(2024, currentMonth - 1, 1), // Start of the month
-                lt: new Date(2024, currentMonth, 1), // Start of the next month
+                gte: new Date(dayjs().year(), currentMonth - 1, 1), // Start of the month
+                lt: new Date(dayjs().year(), currentMonth, 1), // Start of the next month
               },
             },
             orderBy: {
